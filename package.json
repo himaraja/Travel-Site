@@ -1,8 +1,23 @@
 {
   "name": "travel-site",
   "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himaraja/Travel-Site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himaraja/Travel-Site/issues"
+  },
+  "homepage": "https://github.com/himaraja/Travel-Site#readme",
   "dependencies": {
-    "jquery": "^3.1.1",
-    "normalize.css": "^5.0.0"
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
   }
 }
