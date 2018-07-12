@@ -9,7 +9,7 @@
     &--no-b-padding-untill-medium{
         padding-bottom: 0;
 
-        @maixin atMedium {
+        @mixin atMedium {
             padding-bottom: 4.5rem;
         }
     }
@@ -17,7 +17,7 @@
     &--no-b-padding-untill-large{
         padding-bottom: 0;
 
-        @maixin atLarge {
+        @mixin atLarge {
             padding-bottom: 4.5rem;
         }
     }
